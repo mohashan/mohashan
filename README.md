@@ -16,8 +16,8 @@ You can find me on LinkedIn and Github
 ## Develpment
 
 | Dotnet | C# | Asp.net MVC | Asp.net Core | Web API |
-|--|--|--|--|--|--|
-| ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+|--|--|--|--|--|
+| ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 
   
 
@@ -41,6 +41,8 @@ You can find me on LinkedIn and Github
 <img  src="Images/DotnetCoreLogo.png"  width="100px"  alt="DotnetCore">
 <img  src="Images/OcelotLogo.png"  width="100px"  alt="Ocelot">
 <img  src="Images/RabbitMQLogo.png"  width="100px"  alt="Rabbitmq">
+<img  src="Images/AzureDevOpsLogo.png"  width="100px"  alt="AzureDevOps">
+<img  src="Images/GitLogo.png"  width="100px"  alt="Git">
 </p>
 
   
