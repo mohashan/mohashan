@@ -36,12 +36,12 @@ You can find me on LinkedIn and Github
 
 <p  align="center">
 <img  src="Images/DockerLogo.png"  width="100px"  title="Docker">
-<img  src="Images/CsharpLogo.png"  width="100px"  alt="CSharp">
+<img  src="Images/CSharpLogo.png"  width="100px"  alt="CSharp">
 <img  src="Images/VSCodeLogo.png"  width="100px"  alt="VSCode">
 <img  src="Images/DotnetCoreLogo.png"  width="100px"  alt="DotnetCore">
 <img  src="Images/OcelotLogo.png"  width="100px"  alt="Ocelot">
 <img  src="Images/RabbitMQLogo.png"  width="100px"  alt="Rabbitmq">
-<img  src="Images/AzureDevOpsLogo.png"  width="100px"  alt="AzureDevOps">
+<img  src="Images/AzureDevopsLogo.png"  width="100px"  alt="AzureDevOps">
 <img  src="Images/GitLogo.png"  width="100px"  alt="Git">
 </p>
 
