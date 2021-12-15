@@ -36,33 +36,33 @@ You can find me on LinkedIn and Github
 
  
 
-<p  align="center">
-<img  src="Images/DockerLogo.png"  width="100px"  title="Docker">
-<img  src="Images/CSharpLogo.png"  width="100px"  alt="CSharp">
-<img  src="Images/VSCodeLogo.png"  width="100px"  alt="VSCode">
-<img  src="Images/DotnetCoreLogo.png"  width="100px"  alt="DotnetCore">
-<img  src="Images/OcelotLogo.png"  width="100px"  alt="Ocelot">
-<img  src="Images/RabbitMQLogo.png"  width="100px"  alt="Rabbitmq">
-<img  src="Images/AzureDevopsLogo.png"  width="100px"  alt="AzureDevOps">
-<img  src="Images/GitLogo.png"  width="100px"  alt="Git">
+<p  align="center" width="100%">
+  <img  src="Images/OcelotLogo.png"  width="6%"  title="Docker">
+  <img  src="Images/SQLServerLogo.png"  width="8%"  alt="CSharp">
+  <img  src="Images/VSCodeLogo.png"  width="10%"  alt="VSCode">
+  <img  src="Images/CSharpLogo.png"  width="14%"  alt="DotnetCore">
+  <img  src="Images/DotnetCoreLogo.png"  width="17%"  alt="Ocelot">
+  <img  src="Images/DockerLogo.png"  width="16%"  alt="Rabbitmq">
+  <img  src="Images/AzureDevopsLogo.png"  width="9%"  alt="AzureDevOps">
+  <img  src="Images/GitLogo.png"  width="8%"  alt="Git">
+  <img  src="Images/RabbitMQLogo.png"  width="5%"  alt="SQLServer">
 </p>
 
-  
-  
+<br>
 
 # 💻 Experience
 
->  **Deputy Director of Software** @ *Shahr Bank*
+*  **Deputy Director of Software** 
 
-> 📆 *Jul 2021 – Present*
+    > *Shahr Bank* 📆 *Jul 2021 – Present*
 
->  **Back-end Developer** @ *Shahr Bank*
+*  **Back-end Developer** 
 
-> 📆 *Feb 2014 – Jul 2021*
+    > *Shahr Bank* 📆 *Feb 2014 – Jul 2021*
 
->  **Co-Founder & Technical Lead** @ *Nikpay e-Commerce*
+*  **Co-Founder & Technical Lead** 
 
-> 📆 *Aug 2016 – Present*
+    > *Nikpay e-Commerce* 📆 *Aug 2016 – Present*
 
 <br>
 
