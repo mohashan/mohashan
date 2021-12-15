@@ -7,7 +7,7 @@
 
 Currently I am working at shahr bank as software support team lead. Eager to learn and upgrade my knowledge.
 
-You can find me on LinkedIn and Github
+You can find me on LinkedIn, Github and Gmail
 | <a  href="https://www.linkedin.com/in/mohammad-shoorabi/">![Linkedin](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)</a> | <a  href="https://github.com/mohashan">![Github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)</a>| <a  href="mailto:m.shoorabi.86@gmail.com">![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> |
 |--|--|--|
 
