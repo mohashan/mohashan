@@ -8,8 +8,10 @@
 Currently I am working at shahr bank as software support team lead. Eager to learn and upgrade my knowledge.
 
 You can find me on LinkedIn and Github
-| <a  href="https://www.linkedin.com/in/mohammad-shoorabi/">![Linkedin](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)</a> | <a  href="https://github.com/mohashan">![Linkedin](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)</a>|
-|--|--|
+| <a  href="https://www.linkedin.com/in/mohammad-shoorabi/">![Linkedin](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)</a> | <a  href="https://github.com/mohashan">![Github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)</a>| <a  href="mailto:m.shoorabi.86@gmail.com">![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> |
+|--|--|--|
+
+<br> 
 
   # Skills 💗💗💗
 
@@ -62,19 +64,21 @@ You can find me on LinkedIn and Github
 
 > 📆 *Aug 2016 – Present*
 
+<br>
+
 # 📚 Education
 
--  **Amirkabir University of Technology - Tehran Polytechnic**
+  -  **Amirkabir University of Technology - Tehran Polytechnic**
 
-+ MA in Engineering
-
-📆 2009 – 2011
+     + MA in Engineering📆 2009 – 2011
 
   
 -  **Shahrood University of Technology**
 
-+ Bachelor of engineering 📆 2005 - 2009
-  
+    + Bachelor of engineering 📆 2005 - 2009
+
+<br>
+
 # 📝 Projects
 
 -  **Designing and developing settlement service in order to manage acounting of acceptors**
@@ -89,3 +93,15 @@ You can find me on LinkedIn and Github
 
 + Using Microsoft Azure DevOps to implement continuous integration and upload images on local registry and deploy them to VMs through countinuous delivery pipeline
 
+<br>
+
+# GitHub Activeness
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohashan&show_icons=true&theme=dracula" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohashan&show_icons=true&theme=dracula" width="50%">
+
+<br>
+
+# Github profile Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=mohashan&theme=dracula">
