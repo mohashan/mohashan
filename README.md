@@ -52,7 +52,7 @@ You can find me on LinkedIn, Github and Gmail
 
 # 💻 Experience
 
-*  **Deputy Director of Software** 
+*  **Head of Software support team** 
 
     > *Shahr Bank* 📆 *Jul 2021 – Present*
 
