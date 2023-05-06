@@ -14,27 +14,14 @@ You can find me on LinkedIn, Github and Gmail
 <br> 
 
   # Skills 💗💗💗
+| Development | Database | Architecture | 
+|--|--|--|
+| ✔️ Dotnet | ✔️ SQL Server-TSQL | ✔️ Layered |
+| ✔️ C# | ✔️ SQL Server-Tuning | ✔️ Microservice |
+| ✔️ Asp.net MVC | | ✔️ Service-Oriented Architecture |
+| ✔️ Asp.net Core | | ✔️  Clean |
+| ✔️ Web API | | |
 
-## Develpment
-
-| Dotnet | C# | Asp.net MVC | Asp.net Core | Web API |
-|--|--|--|--|--|
-| ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-
-  
-
-## Database
-
-| SQL Server-TSQL | SQL Server-Tuning |
-|--|--|
-| ✔️ | ✔️ |
-
-## Architecture
-| Layered | Microservice | Service-Oriented Architecture | Clean
-|--|--|--|--|
-| ✔️ | ✔️ | ✔️ | ✔️ |
-
- 
 
 <p  align="center" width="100%">
   <img  src="Images/OcelotLogo.png"  width="6%"  title="Docker">
